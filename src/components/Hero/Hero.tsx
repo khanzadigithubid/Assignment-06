@@ -16,7 +16,7 @@ const HeroSection: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
           {/* Text Section */}
           <div className="space-y-6">
-            <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold tracking-tight text-black">
+            <h1 className="text-[14px] sm:text-4xl md:text-5xl font-bold tracking-tight text-black">
               Learn new skills online with ease
             </h1>
             <p className="text-lg sm:text-xl text-gray-700 max-w-lg">
